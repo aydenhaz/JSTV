@@ -113,28 +113,17 @@ http://112.86.202.37:8112/JSBC_iptv/C10000166@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000046@JSBC
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京卫视.png" group-title="卫视",北京卫视
 http://122.96.52.98:8006/JS_CUCC/G_BEIJING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt6ptYCV0fCKRLa0se%2BHo4x4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京十八.png" group-title="江苏",南京十八·生活
+
+#EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京生活.png" group-title="江苏",南京生活
 http://122.96.52.98:8006/JS_CUCC/G_NJSB.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqlM1l%2BeoFKI8wnHz%2FUgbsbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京少儿.png" group-title="江苏",南京少儿
-http://112.86.202.37:8112/JSBC_iptv/C10000156@JSBC
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京少儿.png" group-title="江苏",南京少儿
-http://122.96.52.98:8006/JS_CUCC/G_NJSE.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErV9ZZLHPB2iNJDmdQ9xIhzEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京影视.png" group-title="江苏",南京影视
-http://112.86.202.37:8112/JSBC_iptv/C10000153@JSBC
-#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京影视.png" group-title="江苏",南京影视
-http://122.96.52.98:8006/JS_CUCC/G_NJYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEryOYppBCaGCbwBoicbAMYfEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京教科.png" group-title="江苏",南京教科
 http://122.96.52.98:8006/JS_CUCC/G_NJJK.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiGqx7T0gmg2iKRDXWqfssbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-id="南京信息" tvg-name="南京信息" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京信息.png" group-title="江苏",南京文旅记录
+#EXTINF:-1 tvg-id="南京文旅记录" tvg-name="南京文旅记录" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京文旅记录.png" group-title="江苏",南京文旅记录
 http://122.96.52.98:8006/JS_CUCC/G_NJYL.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjFqfQRndUrBSsUh%2BqRc5aPEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-id="南京新闻" tvg-name="南京新闻" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京新闻.png" group-title="江苏",南京新闻
-http://112.86.202.37:8112/JSBC_iptv/C10000128@JSBC
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京新闻综合.png" group-title="江苏",南京新闻综合
 http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoMjcH0bdretQeGgwOgFK%2FnEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京生活.png" group-title="江苏",南京生活
-http://112.86.202.37:8112/JSBC_iptv/C10000129@JSBC
-#EXTINF:-1 tvg-id="南京信息" tvg-name="南京信息" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京信息.png" group-title="江苏",南京科教
-http://112.86.202.37:8112/JSBC_iptv/C10000122@JSBC
+
+
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卡酷少儿.png" group-title="其他",卡酷少儿
 http://112.86.202.37:8112/JSBC_iptv/C10000426@JSBC
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卡酷少儿.png" group-title="其他",卡酷少儿
